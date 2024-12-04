@@ -1,3 +1,5 @@
+![My Image](my-image.jpg)
+
 Overview
 This README provides an overview of the basic internet website created for SmileSchool. The website is designed to serve as a comprehensive platform for students, parents, and staff (?) to access information about the school's unique classes and related resources.
 
