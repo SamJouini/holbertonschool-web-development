@@ -1,4 +1,5 @@
-/* CSS Reset */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -71,7 +72,7 @@ p, h1, h2, h3 {
 .promo-section {
 	height: 957px;
 	display: flex;
-	flex-wrap: wrap;
+	align-content: center;
 	flex-direction: column;
 	justify-content: space-around;
 	align-items: center;
