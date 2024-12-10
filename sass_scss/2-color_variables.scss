@@ -11,9 +11,3 @@ body, p {
 body, h2 {
   background-color: $background-color;
 }
-
-// Additional rule for body to avoid repetition
-body {
-  color: $text-color;
-  background-color: $background-color;
-}
