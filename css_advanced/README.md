@@ -1,25 +1,26 @@
-![My Image](website.jpg)
+![My Image](website.png)
 
 Overview
-This README provides an overview of the basic internet website created for SmileSchool. The website is designed to serve as a comprehensive platform for students, parents, and staff (?) to access information about the school's unique classes and related resources.
+This README provides an overview of the basic internet website created for SmileSchool. The website is designed to serve as a comprehensive platform for students, parents, and staff (?) to access information about the school's classes and related resources.
 
 Purpose
 The primary purpose of the school website is to:
 
     Provide essential information about tutorials classes and how to get involved.
-    Facilitate easy access to sign-up forms, pricing information, and course details.
+    Facilitate easy access pricing information and course details.
     Share testimonials from students and parents to highlight the value of the courses.
     Offer free membership options and answer frequently asked questions.
 
 Website Structure
 The website consists of the following key sections:
-1. Header
+1. The header
 
+    The school's logo
     Navigation Links: Links to three main pages:
-        Login: A page where users can register for Turotrials.
-        Pricing: Information on the costs associated with different Turotrials courses.
-        Courses: A detailed overview of all available Turotrials.
-    Image: A visually appealing image that represents an happy student.
+        Courses: An overview of all available courses.
+        Pricing: Information on the costs associated with the different courses.
+        Login: A page where users can register for Tutorials.
+    A background image: A visually appealing image that represents someone smilling (an happy student?).
 
 2. Testimonials
 
@@ -27,11 +28,11 @@ The website consists of the following key sections:
 
 3. Most Popular Tutorials
 
-    A curated list of the most popular tutorials available. Each tutorial will include a brief description, the tutor's name, duration, review (stars) and links to enroll or learn more.
+    A curated list of the most popular tutorials available. Each tutorial include a a video, a brief description, the tutor's name, duration, review (stars) and links.
 
 4. Free Membership
 
-    Information about the free membership option available for users.
+    Information about the free membership options available for users.
 
 5. FAQ
 
@@ -42,7 +43,7 @@ Footer
     Social Media Links: Links to the school's social media profiles (Facebook, Twitter, Instagram) to encourage community engagement and keep users informed about updates and events.
 
 Getting Started
-To access the website, simply navigate to the link. The site is designed to be user-friendly and accessible on various devices including desktops, tablets, and smartphones.
+To access the website, simply navigate to the link.
 
 Requirements
 No special requirements are needed to access the website. A standard web browser is sufficient.
