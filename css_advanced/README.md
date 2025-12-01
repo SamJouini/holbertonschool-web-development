@@ -1,9 +1,7 @@
-![My Image](website.png)
-
-Overview
+Overview  
 This README provides an overview of the basic internet website created for SmileSchool. The website is designed to serve as a comprehensive platform for students, parents, and staff (?) to access information about the school's classes and related resources.
 
-Purpose
+Purpose  
 The primary purpose of the school website is to:
 
     Provide essential information about tutorials classes and how to get involved.
@@ -11,16 +9,16 @@ The primary purpose of the school website is to:
     Share testimonials from students and parents to highlight the value of the courses.
     Offer free membership options and answer frequently asked questions.
 
-Website Structure
+Website Structure  
 The website consists of the following key sections:
 1. The header
 
-    The school's logo
-    Navigation Links: Links to three main pages:
-        Courses: An overview of all available courses.
-        Pricing: Information on the costs associated with the different courses.
-        Login: A page where users can register for Tutorials.
-    A background image: A visually appealing image that represents someone smilling (an happy student?).
+    The school's logo  
+    Navigation Links: Links to three main pages:  
+        Courses: An overview of all available courses.  
+        Pricing: Information on the costs associated with the different courses.  
+        Login: A page where users can register for Tutorials.  
+    A background image: A visually appealing image that represents someone smilling (an happy student?).  
 
 2. Testimonials
 
@@ -40,7 +38,8 @@ The website consists of the following key sections:
 
 Footer
 
-    Social Media Links: Links to the school's social media profiles (Facebook, Twitter, Instagram) to encourage community engagement and keep users informed about updates and events.
+    Social Media Links: Links to the school's social media profiles (Facebook, Twitter, Instagram)  
+    to encourage community engagement and keep users informed about updates and events.
 
 Getting Started
 To access the website, simply navigate to the link.
