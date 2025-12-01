@@ -20,7 +20,7 @@ html, body {
 }
 
 body {
-	background-image: url("./assets/background.png");
+	background-image: url("./css_advanced/assets/background.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
